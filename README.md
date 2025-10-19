@@ -1,6 +1,6 @@
 # Chapter2_Challenge1
 Bouncing Text Applet
-This project is a classic Java Applet demonstrating a simple animation: a string of text moving horizontally across the screen.
+This project is a classic Java Applet demonstrating a simple animation: a string of text moving across the screen.
 
 Project Files
 BouncingTextApplet.java: The main Java source file containing the Applet logic.
@@ -35,13 +35,14 @@ To run this project, you would typically follow these steps:
 
 Compile the Java file:
 
+Download ZIP file to your local machine.
 
 javac BouncingTextApplet.java
 Run the Applet:
 
 Using a Web Browser: Open the BouncingTextApplet.html file in a browser that supports Java Applets (note: browser support for Applets is now rare).
 
-Using the AppletViewer tool:
+#Using the AppletViewer tool:
 
 
 appletviewer BouncingTextApplet.html
